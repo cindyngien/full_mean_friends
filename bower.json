@@ -1,0 +1,21 @@
+{
+  "name": "friends_proj",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Cindy Ngien <cindyngien@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "angular": "^1.5.8"
+  }
+}
